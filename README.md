@@ -1,4 +1,4 @@
-This is vanilla Java Script project, responsive for all types of devises. 
+This is vanilla Java Script project, responsive for all types of devices. 
 View on [http://random-meal-generator.surge.sh/](http://random-meal-generator.surge.sh/)
 
 Technologies:
